@@ -180,4 +180,5 @@ Week 20: 13 hours\
 29.09.2024 = 10 # Pandas Python
 -
 Week 21:
-30.09.2024 = 4
+30.09.2024 = 4 # Pandas Python\
+01.10.2024 = 1\
