@@ -181,4 +181,4 @@ Week 20: 13 hours\
 -
 Week 21:
 30.09.2024 = 4 # Pandas Python\
-01.10.2024 = 3\
+01.10.2024 = 4 # Закончил Pandas Python & дорешал до 18 задачи sql-ex-pandas
