@@ -184,4 +184,5 @@ Week 21:
 01.10.2024 = 4 # Закончил Pandas Python & дорешал до 18 задачи sql-ex-pandas\
 02.10.2024 = 6 # Дорешал до 46 задачи sql-ex-pandas\
 03.10.2024 = 7 # Дорешал до 70 задачи, прорешал 2 задачи на leetcode (stack, hashmaps)\ 
-04.10.2024 = 4
+04.10.2024 = 4 # Прорешал 3 задачи на leetcode (backtracking, sliding_window, binary_search) + titanic kaggle
+05.10.2024 = 1
