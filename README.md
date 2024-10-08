@@ -190,4 +190,4 @@ Week 21: 27 hours\
 -
 Week 22:
 07.10.2024 = 3 # lesson-9 ML\
-08.10.2024 = 4
+08.10.2024 = 5 # lesson-10, lesson-11 ML\
