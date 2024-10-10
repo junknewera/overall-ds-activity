@@ -191,4 +191,5 @@ Week 21: 27 hours\
 Week 22:
 07.10.2024 = 3 # lesson-9 ML\
 08.10.2024 = 5 # lesson-10, lesson-11 ML, leetcode hashmaps 1 задача\
-09.10.2024 = 1
+09.10.2024 = 1 # 71 - 75 sql-ex-pandas\
+10.10.2024 = 1
