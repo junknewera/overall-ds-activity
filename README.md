@@ -193,4 +193,6 @@ Week 22:
 08.10.2024 = 5 # lesson-10, lesson-11 ML, leetcode hashmaps 1 задача\
 09.10.2024 = 1 # 71 - 75 sql-ex-pandas\
 10.10.2024 = 4 # 76 - 85 sql-ex-pandas\
-11.10.2024 = 5 # 86 - 96 sq-ex-pandas, 11 lesson ML homework\ 
+11.10.2024 = 5 # 86 - 96 sq-ex-pandas, 11 lesson ML homework\
+12.10.2024 = 1 # созвон\
+13.10.2024 = 1
