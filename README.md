@@ -203,3 +203,5 @@ Week 23:
 16.10.2024 = 5 # 14 lesson ML + kaggle competition linear regression car prices\
 17.10.2024 = 1 # 14 lesson ML\
 18.10.2024 = 5 # 15 lesson ML\
+19.10.2024 = 0\
+20.10.2024 = 1
