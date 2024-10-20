@@ -197,11 +197,12 @@ Week 22: 21 hours\
 12.10.2024 = 1 # созвон\
 13.10.2024 = 2 # Neetcode arrays
 -
-Week 23:
+Week 23: 25.5 hours\
 14.10.2024 = 4 # Повторил всю линейную регрессию + разобрал dataset на kaggle\
 15.10.2024 = 5 # 12, 13 lessons ML + 102 задача sql-ex-pandas\
 16.10.2024 = 5 # 14 lesson ML + kaggle competition linear regression car prices\
 17.10.2024 = 1 # 14 lesson ML\
 18.10.2024 = 5 # 15 lesson ML\
 19.10.2024 = 0\
-20.10.2024 = 5
+20.10.2024 = 5.5
+-
