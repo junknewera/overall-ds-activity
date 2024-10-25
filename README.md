@@ -211,4 +211,4 @@ Week 24:
 22.10.2024 = 7 # 17, 18 module ML, 1 module A/B (UPLIFT), повторил SQL\
 23.10.2024 = 2 # SQL + mok-sobes\
 24.10.2024 = 2 # Leetcode mindset\
-25.10.2024 = 3
+25.10.2024 = 4 
