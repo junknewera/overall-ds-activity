@@ -212,3 +212,4 @@ Week 24:
 23.10.2024 = 2 # SQL + mok-sobes\
 24.10.2024 = 2 # Leetcode mindset\
 25.10.2024 = 5 # Leetcode mindset + grokaem alkogitmi\
+26.10.2024 = 1 # созвон\
