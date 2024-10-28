@@ -206,10 +206,14 @@ Week 23: 25.5 hours\
 19.10.2024 = 0\
 20.10.2024 = 5.5 # C++ 1-2 
 -
-Week 24:
+Week 24: 24 hours\
 21.10.2024 = 7 # SQL до 125 задачи + вся база SQL + карточки + немного докер\
 22.10.2024 = 7 # 17, 18 module ML, 1 module A/B (UPLIFT), повторил SQL\
 23.10.2024 = 2 # SQL + mok-sobes\
 24.10.2024 = 2 # Leetcode mindset\
 25.10.2024 = 5 # Leetcode mindset + grokaem alkogitmi\
 26.10.2024 = 1 # созвон\
+27.10.2024 = 0
+-
+Week 25:\
+28.10.2024 = 1
