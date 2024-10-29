@@ -216,4 +216,5 @@ Week 24: 24 hours\
 27.10.2024 = 0
 -
 Week 25:\
-28.10.2024 = 9 # grokaem algoritmi дочитал + leetcode + itresume
+28.10.2024 = 9 # grokaem algoritmi дочитал + leetcode + itresume\
+29.10.2024 = 1
