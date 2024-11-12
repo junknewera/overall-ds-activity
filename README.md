@@ -235,4 +235,4 @@ Week 26: 5 hours\
 -
 Week 27:
 11.11.2024 = 0\
-12.11.2024 = 7
+12.11.2024 = 8 # 20 ML + Leetcode + pandas + SQL\
