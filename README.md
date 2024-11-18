@@ -243,4 +243,5 @@ Week 27: 18 hours\
 17.11.2024 = 0
 -
 Week 28:
-18.11.2024 = 2
+18.11.2024 = 3 # LPS + sozvoni + stepik ML\
+
