@@ -245,4 +245,5 @@ Week 27: 18 hours\
 Week 28:
 18.11.2024 = 3 # LPS + sozvoni + stepik ML\
 19.11.2024 = 5 # LPS + stepik ML 2\
-20.11.2024 = 3
+20.11.2024 = 4 # LPS + stepik ML 2 + baza\
+
