@@ -247,3 +247,4 @@ Week 28:
 19.11.2024 = 5 # LPS + stepik ML 2\
 20.11.2024 = 4 # LPS + stepik ML 2 + baza\
 21.11.2024 = 7 # LPS + stepik 2.7 + baza + kaggle\
+22.11.2024 = 1 # kaggle + grokaem ML\
