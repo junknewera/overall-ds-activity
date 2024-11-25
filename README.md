@@ -242,9 +242,14 @@ Week 27: 18 hours\
 16.11.2024 = 1 # созвон\
 17.11.2024 = 0
 -
-Week 28:
+Week 28: 21 hours\
 18.11.2024 = 3 # LPS + sozvoni + stepik ML\
 19.11.2024 = 5 # LPS + stepik ML 2\
 20.11.2024 = 4 # LPS + stepik ML 2 + baza\
 21.11.2024 = 7 # LPS + stepik 2.7 + baza + kaggle\
 22.11.2024 = 1 # kaggle + grokaem ML\
+23.11.2024 = 1 # sozvon
+24.11.2024 = 0
+-
+Week 29:
+25.11.2024 = 1
