@@ -253,4 +253,4 @@ Week 28: 21 hours\
 -
 Week 29:
 25.11.2024 = 7 # LPS + karpov ML 3.4 + baza + grokaem ML + matan DS\
-26.11.2024 = 3
+26.11.2024 = 4 # LPS + karpov ML 4 + baza + matan DS\
