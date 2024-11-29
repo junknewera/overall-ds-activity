@@ -256,4 +256,4 @@ Week 29:
 26.11.2024 = 4 # LPS + karpov ML 4 + baza + matan DS\
 27.11.2024 = 6 # LPS + baza zakonchil + matan DS\
 28.11.2024 = 10 # LPS + matan DS zakonchil\
-29.11.2024 = 1
+29.11.2024 = 2
