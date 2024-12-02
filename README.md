@@ -251,9 +251,14 @@ Week 28: 21 hours\
 23.11.2024 = 1 # sozvon
 24.11.2024 = 0
 -
-Week 29:
+Week 29: 31 hours\
 25.11.2024 = 7 # LPS + karpov ML 3.4 + baza + grokaem ML + matan DS\
 26.11.2024 = 4 # LPS + karpov ML 4 + baza + matan DS\
 27.11.2024 = 6 # LPS + baza zakonchil + matan DS\
 28.11.2024 = 10 # LPS + matan DS zakonchil\
 29.11.2024 = 3 # LPS + avito statistics\
+30.11.2024 = 1\
+01.11.2024 = 0
+-
+Week 30:
+02.11.2024 = 1
