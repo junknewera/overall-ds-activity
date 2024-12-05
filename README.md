@@ -264,4 +264,4 @@ Week 30:
 02.11.2024 = 2 # LPS + neural\
 03.11.2024 = 5 # LPS + Neetcode + stepik ML\
 04.11.2024 = 5 # LPS + NeetCode + stepik ML\
-05.11.2024 = 5 
+05.11.2024 = 6
