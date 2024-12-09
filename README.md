@@ -265,4 +265,6 @@ Week 30:
 03.11.2024 = 5 # LPS + Neetcode + stepik ML\
 04.11.2024 = 5 # LPS + NeetCode + stepik ML\
 05.11.2024 = 6 # LPS + NeetCode + stepik ML\
-06.11.2024 = 5
+06.11.2024 = 5 # LPS + NeetCode + stepik ML\
+07.11.2024 = 1 # Leetcode + sozvon
+08.11.2024 = 0
