@@ -260,7 +260,7 @@ Week 29: 31 hours\
 30.11.2024 = 1\
 01.11.2024 = 0
 -
-Week 30:
+Week 30: 24 hours\
 02.11.2024 = 2 # LPS + neural\
 03.11.2024 = 5 # LPS + Neetcode + stepik ML\
 04.11.2024 = 5 # LPS + NeetCode + stepik ML\
@@ -269,6 +269,7 @@ Week 30:
 07.11.2024 = 1 # Leetcode + sozvon\
 08.11.2024 = 0
 -
+Week 31: 11.5 hours\
 09.11.2024 = 2 # LPS\
 10.11.2024 = 1.5 # Leetcode\
 11.11.2024 = 3 # Neetcode + Leetcode\
@@ -277,4 +278,7 @@ Week 30:
 14.11.2024 = 1 # leetcode\
 15.11.2024 = 0
 -
-16.11.2024 = 3
+Week 32:
+16.11.2024 = 3 # Neetcode + mok-sobes\
+17.11.2024 = 0\
+18.11.2024 = 1
