@@ -316,4 +316,4 @@ Week 35: 1 hours\
 -
 Week 36:
 13.01.2024 = 5 # ML stepik zakonchil\
-14.01.2024 = 1
+14.01.2024 = 2
