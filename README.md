@@ -416,4 +416,4 @@ Week 46: 10 hours\
 Week 47:
 31.03.2024 = 4 # LPS + voprisy ML + sozvon ML\
 01.04.2024 = 4 # LPS + neural\
-02.04 2024 = 3
+02.04 2024 = 4
