@@ -417,4 +417,4 @@ Week 47:
 31.03.2024 = 4 # LPS + voprisy ML + sozvon ML\
 01.04.2024 = 4 # LPS + neural\
 02.04 2024 = 5 # LPS + zvonki + neural + ML voprosy\
-03.04.2024 = 4
+03.04.2024 = 5
