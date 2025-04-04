@@ -418,4 +418,4 @@ Week 47:
 01.04.2024 = 4 # LPS + neural\
 02.04 2024 = 5 # LPS + zvonki + neural + ML voprosy\
 03.04.2024 = 6 # LPS + neural + ML voprosy + sozvon\
-04.04.2024 = 2
+04.04.2024 = 3 # LPS + A/B\
