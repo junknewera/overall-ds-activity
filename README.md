@@ -427,3 +427,5 @@ Week 48:
 08.04.2024 = 5 # AB TEST + STATISTICS + ML DOBIVKA\
 09.04.2024 = 5 # AB TEST MOK (0/5) + AB TEST + ML DOBIVKA\
 10.04.2024 = 6 # System Design + AB terminy\
+11.04.2024 = 0.5 # ODS\
+
