@@ -422,10 +422,16 @@ Week 47: 22 hours\
 05.04.2024 = 0\
 06.04.2024 = 0
 -
-Week 48:
+Week 48: 22.5 hours\
 07.04.2024 = 6 # SOBESI SOFT + CLUSTER + STATISTICS\
 08.04.2024 = 5 # AB TEST + STATISTICS + ML DOBIVKA\
 09.04.2024 = 5 # AB TEST MOK (0/5) + AB TEST + ML DOBIVKA\
 10.04.2024 = 6 # System Design + AB terminy\
 11.04.2024 = 0.5 # ODS\
+12.04.2024 = 0\
+13.04.2024 = 0
+-
+Week 49:
+14.04.2024 = 1
+
 
