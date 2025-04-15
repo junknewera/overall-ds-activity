@@ -433,4 +433,4 @@ Week 48: 22.5 hours\
 -
 Week 49:
 14.04.2024 = 4 # Sozvon + razbor + DL\
-
+15.04.2024 = 1
