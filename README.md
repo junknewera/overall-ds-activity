@@ -435,4 +435,4 @@ Week 49:
 14.04.2024 = 4 # Sozvon + razbor + DL\
 15.04.2024 = 1 # Kaggle\
 16.04.2024 = 5 # Kaggle + Vremennie Ryadi\
-17.04.2024 = 4
+17.04.2024 = 5 # NN + ODS ml system design + statistics\
