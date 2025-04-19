@@ -437,3 +437,4 @@ Week 49:
 16.04.2024 = 5 # Kaggle + Vremennie Ryadi\
 17.04.2024 = 5 # NN + ODS ml system design + statistics\
 18.04.2024 = 6 # Statistics ML book + ODS ml system design + NN\
+19.04.2024 = 1
