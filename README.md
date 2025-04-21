@@ -431,10 +431,13 @@ Week 48: 22.5 hours\
 12.04.2024 = 0\
 13.04.2024 = 0
 -
-Week 49:
+Week 49: 25.5 hours\
 14.04.2024 = 4 # Sozvon + razbor + DL\
 15.04.2024 = 1 # Kaggle\
 16.04.2024 = 5 # Kaggle + Vremennie Ryadi\
 17.04.2024 = 5 # NN + ODS ml system design + statistics\
 18.04.2024 = 6 # Statistics ML book + ODS ml system design + NN\
-19.04.2024 = 4
+19.04.2024 = 4.5 LEGENDA\
+20.04.2024 = 0
+-
+21.04.2024 = 1
