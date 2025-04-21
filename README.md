@@ -440,4 +440,4 @@ Week 49: 25.5 hours\
 19.04.2024 = 4.5 LEGENDA\
 20.04.2024 = 0
 -
-21.04.2024 = 5
+21.04.2024 = 6 # NN + ODS ml system design + razbor sobesa + legenda\
