@@ -443,4 +443,4 @@ Week 49: 25.5 hours\
 21.04.2024 = 6 # NN + ODS ml system design + razbor sobesa + legenda\
 22.04.2024 = 1 # legenda\
 23.04.2024 = 4 # statistics + ODS MLSD + NLP\
-24.04.2024 = 3
+24.04.2024 = 4
