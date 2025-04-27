@@ -444,4 +444,6 @@ Week 49: 25.5 hours\
 22.04.2025 = 1 # legenda\
 23.04.2025 = 4 # statistics + ODS MLSD + NLP\
 24.04.2025 = 4 # kaggle + NLP\
-25.04.2025 = 5 # ODS + NLP stepik + statistics + ml-deploy
+25.04.2025 = 5 # ODS + NLP stepik + statistics + ml-deploy\
+26.04.2025 = 1 # Sozvon\
+
