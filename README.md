@@ -451,4 +451,4 @@ Week 50: 21 hours\
 -
 Week 51:
 28.04.2024 = 4 # Docker ML + legend + NLP\
-29.04.4024 = 2
+29.04.4024 = 3
