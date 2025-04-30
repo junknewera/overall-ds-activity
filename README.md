@@ -452,4 +452,4 @@ Week 50: 21 hours\
 Week 51:
 28.04.2025 = 4 # Docker ML + legend + NLP\
 29.04.2025 = 4 # legend + NLP + recomends\
-30.04.2025 = 1
+30.04.2025 = 2 # Legend + leetcode + razbor + lama\
