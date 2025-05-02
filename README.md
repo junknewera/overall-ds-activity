@@ -454,4 +454,4 @@ Week 51:
 29.04.2025 = 4 # legend + NLP + recomends\
 30.04.2025 = 2 # Legend + leetcode + razbor + lama\
 01.05.2025 = 1 # ALGO\
-02.05.2025 = 1
+02.05.2025 = 2 # ALGO + legend\
