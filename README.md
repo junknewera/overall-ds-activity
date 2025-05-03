@@ -455,3 +455,4 @@ Week 51:
 30.04.2025 = 2 # Legend + leetcode + razbor + lama\
 01.05.2025 = 1 # ALGO\
 02.05.2025 = 2 # ALGO + legend\
+03.05.2025 = 1 # sozvon\
