@@ -449,10 +449,14 @@ Week 50: 21 hours\
 26.04.2025 = 1 # Sozvon\
 27.04.2025 = 0
 -
-Week 51:
+Week 51: 14 hours\
 28.04.2025 = 4 # Docker ML + legend + NLP\
 29.04.2025 = 4 # legend + NLP + recomends\
 30.04.2025 = 2 # Legend + leetcode + razbor + lama\
 01.05.2025 = 1 # ALGO\
 02.05.2025 = 2 # ALGO + legend\
 03.05.2025 = 1 # sozvon\
+04.05.2025 = 0
+-
+Week 52:
+05.05.2025 = 1
