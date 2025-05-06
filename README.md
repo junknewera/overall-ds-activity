@@ -460,4 +460,4 @@ Week 51: 14 hours\
 -
 Week 52:
 05.05.2025 = 5 # MLSD + prosmotrel sozvon + mlflow + legenda\
-06.05.2025 = 2
+06.05.2025 = 3
