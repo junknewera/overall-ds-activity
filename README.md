@@ -458,7 +458,14 @@ Week 51: 14 hours\
 03.05.2025 = 1 # sozvon\
 04.05.2025 = 0
 -
-Week 52:
+Week 52: 12 hours\
 05.05.2025 = 5 # MLSD + prosmotrel sozvon + mlflow + legenda\
 06.05.2025 = 3 # NN + torch + algo\
 07.05.2025 = 4 # NN + torch + algo + mini project\
+08.05.2025 = 0\
+09.05.2025 = 0\
+10.05.2025 = 0\
+11.05.2025 = 0
+-
+Week 53:
+12.05.2025 = 1
