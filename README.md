@@ -469,4 +469,5 @@ Week 52: 12 hours\
 -
 Week 53:
 12.05.2025 = 2 # NN + legend\
-13.05.2025 = 1
+13.05.2025 = 2 # legend + rezume\
+
