@@ -470,4 +470,4 @@ Week 52: 12 hours\
 Week 53:
 12.05.2025 = 2 # NN + legend\
 13.05.2025 = 2 # legend + rezume\
-14.05.2025 = 4
+14.05.2025 = 5 # zapis sozvona + SOFT skills + razbor sobesov\
