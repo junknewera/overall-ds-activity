@@ -472,3 +472,4 @@ Week 53:
 13.05.2025 = 2 # legend + rezume\
 14.05.2025 = 5 # zapis sozvona + SOFT skills + razbor sobesov\
 15.05.2025 = 1 # resume + leetcode\
+16.05.2025 = 1
