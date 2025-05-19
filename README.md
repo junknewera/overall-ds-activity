@@ -467,9 +467,14 @@ Week 52: 12 hours\
 10.05.2025 = 0\
 11.05.2025 = 0
 -
-Week 53:
+Week 53: 12 hours\
 12.05.2025 = 2 # NN + legend\
 13.05.2025 = 2 # legend + rezume\
 14.05.2025 = 5 # zapis sozvona + SOFT skills + razbor sobesov\
 15.05.2025 = 1 # resume + leetcode\
-16.05.2025 = 2
+16.05.2025 = 2 # algo + razbor sobesov\
+17.05.2025 = 0\
+18.05.2025 = 0
+-
+Week 54:
+19.05.2025 = 1
