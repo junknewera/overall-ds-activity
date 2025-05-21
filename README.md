@@ -478,4 +478,5 @@ Week 53: 12 hours\
 -
 Week 54:
 19.05.2025 = 2 # ALGO + mini laba\
-20.05.2025 = 3
+20.05.2025 = 4 # ALGO + resume\
+
