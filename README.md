@@ -487,4 +487,4 @@ Week 54: 9 hours\
 -
 Weel 55: 
 26.05.2025 = 3 # ALGO + ML voprosy\
-27.05.2025 = 0
+27.05.2025 = 1 # legend\
