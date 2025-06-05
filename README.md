@@ -497,4 +497,5 @@ Week 55: 8 hours\
 Week 56:
 02.05.2025 = 4 # legend project\
 03.05.2025 = 3 # Leetcode + legend project\
-04.05.2025 = 4
+04.05.2025 = 4 # Leetcode + last legend project\
+05.05.2025 = 1
