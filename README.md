@@ -499,3 +499,4 @@ Week 56:
 03.05.2025 = 3 # Leetcode + legend project\
 04.05.2025 = 4 # Leetcode + last legend project\
 05.05.2025 = 4 # Leetcode + kaggle + handbook\
+06.05.2025 = 1
