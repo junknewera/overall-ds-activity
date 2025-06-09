@@ -494,11 +494,14 @@ Week 55: 8 hours\
 31.05.2025 = 0\
 01.05.2025 = 0
 -
-Week 56:
+Week 56: 19 hours\
 02.05.2025 = 4 # legend project\
 03.05.2025 = 3 # Leetcode + legend project\
 04.05.2025 = 4 # Leetcode + last legend project\
 05.05.2025 = 4 # Leetcode + kaggle + handbook\
 06.05.2025 = 2 # sobesy\
 07.05.2025 = 0\
-08.06.2025 = 2
+08.06.2025 = 2 # sobesy
+-
+Week 57:
+09.06.2025 = 1
