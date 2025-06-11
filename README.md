@@ -505,4 +505,5 @@ Week 56: 19 hours\
 -
 Week 57:
 09.06.2025 = 2 # sobesy\
-10.06.2025 = perviy skrining + hh\
+10.06.2025 = 1 # perviy skrining + hh\
+11.06.2025 = 1
