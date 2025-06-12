@@ -507,4 +507,4 @@ Week 57:
 09.06.2025 = 2 # sobesy\
 10.06.2025 = 1 # perviy skrining + hh\
 11.06.2025 = 6 # skrining + LLM proekt + sobesy\
-12.06.2025 = 5
+12.06.2025 = 6 # razbor vakansii + dashboards + llm proekt + sobesy\
