@@ -503,11 +503,12 @@ Week 56: 19 hours\
 07.05.2025 = 0\
 08.06.2025 = 2 # sobesy
 -
-Week 57:
+Week 57: 22 hours\
 09.06.2025 = 2 # sobesy\
 10.06.2025 = 1 # perviy skrining + hh\
 11.06.2025 = 6 # skrining + LLM proekt + sobesy\
 12.06.2025 = 6 # razbor vakansii + dashboards + llm proekt + sobesy\
 13.06.2025 = 4 # sobes LLM + leetcode + razbor vakansii\
 14.06.2025 = 1 # sozvon\
-15.06.2025 = 1
+15.06.2025 = 2 # RAZBOR SOBES
+-
