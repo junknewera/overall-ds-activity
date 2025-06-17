@@ -513,4 +513,4 @@ Week 57: 22 hours\
 15.06.2025 = 2 # RAZBOR SOBES
 -
 16.06.2025 = 3 # 2 skrininga + botal\
-17.06.2025 = 4
+17.06.2025 = 5 # Prompt engineering + ALGO\
