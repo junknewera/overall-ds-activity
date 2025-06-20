@@ -515,4 +515,5 @@ Week 57: 22 hours\
 16.06.2025 = 3 # 2 skrininga + botal\
 17.06.2025 = 5 # Prompt engineering + ALGO\
 18.06.2025 = 5 # 2 HR + botal + algo\
-19.06.2025 = 4
+19.06.2025 = 4 # ML theory + ALGO sobes + HR\
+20.06.2025 = 1
