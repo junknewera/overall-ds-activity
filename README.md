@@ -512,9 +512,14 @@ Week 57: 22 hours\
 14.06.2025 = 1 # sozvon\
 15.06.2025 = 2 # RAZBOR SOBES
 -
+Week 58: 24 hours\
 16.06.2025 = 3 # 2 skrininga + botal\
 17.06.2025 = 5 # Prompt engineering + ALGO\
 18.06.2025 = 5 # 2 HR + botal + algo\
 19.06.2025 = 4 # ML theory + ALGO sobes + HR\
 20.06.2025 = 5 # sobesy + ML theory\
-21.06.2025 = 1
+21.06.2025 = 2 # testovoe\
+22.06.2025 = 0
+-
+Week 59:
+23.06.2025 = 0
