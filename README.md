@@ -526,4 +526,4 @@ Week 59:
 24.06.2025 = 6 # sobesy + testovoe + botal\
 25.06.2025 = 5 # sobesy + testovoe + botal\
 26.06.2025 = 1 # sobes\
-27.06.2025 = 1
+27.06.2025 = 2 
