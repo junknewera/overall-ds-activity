@@ -521,9 +521,13 @@ Week 58: 24 hours\
 21.06.2025 = 2 # testovoe\
 22.06.2025 = 0
 -
-Week 59:
+Week 59: 20 hours\
 23.06.2025 = 5 # sobesy + botal\
 24.06.2025 = 6 # sobesy + testovoe + botal\
 25.06.2025 = 5 # sobesy + testovoe + botal\
 26.06.2025 = 1 # sobes\
-27.06.2025 = 3 
+27.06.2025 = 3 # sobesy\
+28.06.2025 = 0\
+29.06.2025 = 0
+-
+30.06.2025 = 1
