@@ -534,4 +534,4 @@ Week 59: 20 hours\
 01.07.2025 = 5 # uplift + testovoe + sobesy\
 02.07.2025 = 3 # sobesy\
 03.07.2025 = 4 # testovoe + finalka + prompt engineering\
-04.07.2025 = 1
+04.07.2025 = 2
