@@ -530,8 +530,14 @@ Week 59: 20 hours\
 28.06.2025 = 0\
 29.06.2025 = 0
 -
+Week 60: 18 hours\
 30.06.2025 = 1 # uplift\
 01.07.2025 = 5 # uplift + testovoe + sobesy\
 02.07.2025 = 3 # sobesy\
 03.07.2025 = 4 # testovoe + finalka + prompt engineering\
-04.07.2025 = 5
+04.07.2025 = 5 # sobesy\
+05.07.2025 = 0\
+06.07.2025 = 0
+-
+Week 61:
+07.07.2025 = 1
