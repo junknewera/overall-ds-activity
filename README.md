@@ -542,4 +542,4 @@ Week 60: 18 hours\
 Week 61:
 07.07.2025 = 5 # sobesy + legenda + recsysmlops\
 08.07.2025 = 5 # sobesy + kaggle\
-09.07.2025 = 1
+09.07.2025 = 2
