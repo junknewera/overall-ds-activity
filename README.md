@@ -543,4 +543,4 @@ Week 61:
 07.07.2025 = 5 # sobesy + legenda + recsysmlops\
 08.07.2025 = 5 # sobesy + kaggle\
 09.07.2025 = 3 # sobesy\
-
+10.07.2025 = 1
